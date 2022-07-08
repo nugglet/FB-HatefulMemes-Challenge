@@ -50,8 +50,8 @@ The following is an outline of the steps I plan to take to solve the problem of 
 
 1. [] Initialize project (Dataset, environment etc.)
 2. [] Data Pre-processing
-    - [] Loading image data
-    - [] Loading text data
+    - [x] Loading image data
+    - [x] Loading text data
     - [] Handling variable sized data
 3. Try Unimodal Pre-trained Models
     - [] Resnet + BERT (which resnet to use? will it make a difference?) [from the paper]
