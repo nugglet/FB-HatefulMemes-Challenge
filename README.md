@@ -48,11 +48,11 @@ ROC is a probability curve and AUC represents the degree or measure of separabil
 ## Research Checkpoints
 The following is an outline of the steps I plan to take to solve the problem of hateful meme classification.
 
-1. [] Initialize project (Dataset, environment etc.)
-2. [] Data Pre-processing
-    - [] Loading image data
-    - [] Loading text data
-    - [] Handling variable sized data
+1. [x] Initialize project (Dataset, environment etc.)
+2. [x] Data Pre-processing
+    - [x] Loading image data
+    - [x] Loading text data
+    - [x] Handling variable sized data
 3. Try Unimodal Pre-trained Models
     - [] Resnet + BERT (which resnet to use? will it make a difference?) [from the paper]
     - [] FasterRCNN + BERT (What abt other RCNN like masked?) [from the paper]
