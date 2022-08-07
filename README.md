@@ -54,7 +54,8 @@ The following is an outline of the steps I plan to take to solve the problem of 
     - [x] Loading text data
     - [x] Handling variable sized data
 3. Try Unimodal Pre-trained Models
-    - [] Resnet + BERT (which resnet to use? will it make a difference?) [from the paper]
+    - Resnet + BERT (which resnet to use? will it make a difference?) [from the paper]
+        - [] Try Resnet + GPT2
     - [] FasterRCNN + BERT (What abt other RCNN like masked?) [from the paper]
     - [] Maybe try other segmentation models + BERT (YOLO? Bc its fast and understands generalized object representation)
 4. Try Multimodal + Unimodal Pre-trained Models
